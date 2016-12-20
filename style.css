@@ -9,3 +9,7 @@ li {
 .badge {
   margin-left: 5px;
 }
+#listado{
+	width: 300px;
+	margin: 0 auto;
+}
